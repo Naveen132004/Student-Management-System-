@@ -5,6 +5,7 @@ The system supports essential functions such as adding new students, tracking at
 
 Built on the XAMPP server using MySQL/MariaDB, the project follows DBMS best practices, including 1NF to BCNF normalization, ER to relational model conversion, and structured DDL queries.
 
+
 🚀 Features
 
 🔐 Authentication System (Login / Logout)
@@ -26,6 +27,8 @@ View student list
 🗄️ Database Integration
 
 📊 Efficient student data retrieval
+
+
 
 
 🛠️ Tech Stack
@@ -50,7 +53,10 @@ Server
 
 XAMPP
 
+
+
 🗂️ Project Structure
+
 Student-Management-System
 │
 ├── main.py              # Main Flask application
@@ -66,6 +72,9 @@ Student-Management-System
 │
 └── README.md
 
+
+
+
 📖 Learning Outcomes
 This project helped in understanding:
 
@@ -77,7 +86,10 @@ Backend–database integration
 
 Building a full-stack academic management system
 
+
+
 👨‍💻 Contributors
+
 1️⃣ Naveen Kumar 
 B.Tech – Computer Science and Business Systems
 SRM Institute of Science and Technology
