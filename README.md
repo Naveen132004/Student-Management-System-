@@ -6,8 +6,11 @@ The system supports essential functions such as adding new students, tracking at
 Built on the XAMPP server using MySQL/MariaDB, the project follows DBMS best practices, including 1NF to BCNF normalization, ER to relational model conversion, and structured DDL queries.
 
 🚀 Features
+
 🔐 Authentication System (Login / Logout)
+
 👨‍🎓 Student Management
+
 Add new students
 Update student details
 Delete student records
