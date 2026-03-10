@@ -12,28 +12,42 @@ Built on the XAMPP server using MySQL/MariaDB, the project follows DBMS best pra
 👨‍🎓 Student Management
 
 Add new students
+
 Update student details
+
 Delete student records
+
 View student list
+
 📅 Attendance Management
+
 🏫 Department Management
+
 🗄️ Database Integration
+
 📊 Efficient student data retrieval
+
 
 🛠️ Tech Stack
 
 Frontend
+
 HTML
+
 CSS
+
 JavaScript
 
 Backend
+
 PHP / Java / Python (change based on your project)
 
 Database
+
 MySQL / MariaDB
 
 Server
+
 XAMPP
 
 🗂️ Project Structure
@@ -52,12 +66,15 @@ Student-Management-System
 │
 └── README.md
 
-
 📖 Learning Outcomes
 This project helped in understanding:
+
 Database design and normalization
+
 CRUD operations
+
 Backend–database integration
+
 Building a full-stack academic management system
 
 👨‍💻 Contributors
